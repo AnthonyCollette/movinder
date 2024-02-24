@@ -1,0 +1,16 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    a {
+        color: $white;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+}

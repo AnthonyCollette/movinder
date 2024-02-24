@@ -1,1 +1,11 @@
+// UTILS
+@import './utils/variables';
+
+// BASE
 @import './base/normalize';
+@import './base/general';
+@import './base/display';
+@import './base/typography';
+
+// LAYOUTS
+@import './layouts/header';

@@ -1,0 +1,16 @@
+html {
+    font-size: 10px;
+}
+
+body {
+    background: radial-gradient($color-002, $black);
+    min-height: 100vh;
+    font-size: 1.6rem;
+    color: $white;
+}
+
+.container {
+    width: 1600px;
+    max-width: 90%;
+    margin: 0 auto;
+}
